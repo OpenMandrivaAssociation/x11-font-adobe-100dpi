@@ -1,6 +1,6 @@
 Name: x11-font-adobe-100dpi
 Version: 1.0.3
-Release: 14
+Release: 15
 Summary: Xorg X11 font adobe-100dpi
 Group: Development/X11
 URL: http://xorg.freedesktop.org
